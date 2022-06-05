@@ -1,0 +1,4 @@
+so far I have created 3 branches
+learn how to switch branches
+learn how to rename the branch
+learn how to stash changes
